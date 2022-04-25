@@ -39,7 +39,7 @@ paper list for Emotional dialogue system
 
 - [ESConv]Towards Emotional Support Dialog Systems, in ACL 2021, [[paper]](https://arxiv.org/abs/2106.01144)
 - PsyQA：A Chinese Dataset for Generating Long Counseling Text for Mental Health Support, in ACL(findings) 2021, [[paper]](https://aclanthology.org/2021.findings-acl.130/)
-- [LCCC]A Large-Scale Chinese Short-Text Conversation Dataset, NLPCC-2020, [[paper]](https://arxiv.org/abs/2008.03946)
+- [LCCC]A Large-Scale Chinese Short-Text Conversation Dataset, in NLPCC 2020, [[paper]](https://arxiv.org/abs/2008.03946)
 - [Empathetic Dialogues]Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, in ACL 2019, [[paper]](https://arxiv.org/abs/1811.00207)
 - [NRC_VAD]Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words, in ACL 2018, [[paper]](https://aclweb.org/anthology/P18-1017)
 - DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset, in IJCNLP 2017, [[paper]](https://www.aclweb.org/anthology/I17-1099)
@@ -50,7 +50,7 @@ paper list for Emotional dialogue system
 - [Empathic Rewriting]Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach, in WWW 2021, [[paper]](https://arxiv.org/abs/2101.07714)
 - A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, in EMNLP 2020, [[paper]](https://arxiv.org/abs/2009.08441)
 - A Taxonomy of Empathetic Response Intents in Human Social Conversations, in COLING 2020, [[paper]](https://arxiv.org/abs/2012.04080)
-- A Knowledge-Grounded Neural Conversation Model, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057)
+- A Knowledge-Grounded Neural Conversation Model, in AAAI 2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057)
 
 
 
