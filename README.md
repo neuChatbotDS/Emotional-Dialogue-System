@@ -13,7 +13,7 @@ paper list for Emotional dialogue system
 - Eliciting positive emotion through affect-sensitive dialogue response generation A neural network approach, in AAAI 2018, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11955)
 - Automatic Dialogue Generation with Expressed Emotions, in NAACL 2018, [[paper]](https://aclanthology.org/N18-2008/)
 
-## Empathetic Dialog
+## Empathetic Dialogue
 
 - Knowledge Bridging for Empathetic Dialogue Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2009.09708)
 - CEM: Commonsense-aware Empathetic Response Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2109.05739)
