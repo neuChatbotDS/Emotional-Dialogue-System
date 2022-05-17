@@ -15,6 +15,7 @@ paper list for Emotional dialogue system
 
 ## Empathetic Dialogue
 
+- EmpHi: Generating Empathetic Responses with Human-like Intents, in NAACL 2022[[paper]](https://arxiv.org/abs/2204.12191v1)
 - Knowledge Bridging for Empathetic Dialogue Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2009.09708)
 - CEM: Commonsense-aware Empathetic Response Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2109.05739)
 - CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, in ACL 2021(Findings), [[paper]](https://arxiv.org/abs/2105.08316)
@@ -23,6 +24,7 @@ paper list for Emotional dialogue system
 - Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations, in EMNLP(findings) 2021, [[paper]]
 - EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, in COLING 2020, [[paper]](https://aclanthology.org/2020.coling-main.394/)
 - MIME: MIMicking Emotions for Empathetic Response Generation, in EMNLP 2020, [[paper]](https://aclanthology.org/2020.emnlp-main.721/)
+- MoEL: Mixture of Empathetic Listeners, in EMNLP-IJNLP 2019, [[paper]](https://aclanthology.org/D19-1012/)
 
 ## Emotional Support
 
