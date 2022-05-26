@@ -26,6 +26,17 @@ paper list for Emotional dialogue system
 - MIME: MIMicking Emotions for Empathetic Response Generation, in EMNLP 2020, [[paper]](https://aclanthology.org/2020.emnlp-main.721/)
 - MoEL: Mixture of Empathetic Listeners, in EMNLP-IJNLP 2019, [[paper]](https://aclanthology.org/D19-1012/)
 
+## Emotion Elicitation
+
+- Towards Multi-Turn Empathetic Dialogs with Positive Emotion Elicitation, [[paper]](https://arxiv.org/abs/2204.10509)
+- Emotion Eliciting Machine: Emotion Eliciting Conversation Generation based on Dual Generator, [[paper]](https://arxiv.org/abs/2105.08251v1)
+- EmoElicitor: An Open Domain Response Generation Model with User Emotional Reaction Awareness,in IJCAI 2020 [[paper]](https://www.ijcai.org/proceedings/2020/503)
+- Positive Emotion Elicitation in Chat-Based Dialogue Systems, TASLP 2019, [[paper]](https://ieeexplore.ieee.org/document/8649596)
+- Unsupervised Counselor Dialogue Clustering for Positive Emotion Elicitation in Neural Dialogue System, in SIGDIAL 2018, [[paper]](https://aclanthology.org/W18-5017/)
+- Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach, in AAAI 2018, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11955)
+- Eliciting Positive Emotional Impact in Dialogue Response Selection, in IWSDS 2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-92108-2_15)
+- Predicting and Eliciting Addressee’s Emotion in Online Dialogue, in ACL 2013, [[paper]](https://aclanthology.org/P13-1095/)
+
 ## Emotional Support
 
 - MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, in ACL 2022, [[paper]](https://arxiv.org/abs/2203.13560)
