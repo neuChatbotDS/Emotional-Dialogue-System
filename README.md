@@ -15,13 +15,17 @@ paper list for Emotional dialogue system
 
 ## Empathetic Dialogue
 
-- EmpHi: Generating Empathetic Responses with Human-like Intents, in NAACL 2022[[paper]](https://arxiv.org/abs/2204.12191v1)
+- A Taxonomy of Empathetic Questions in Social Dialogs, in ACL 2022, [[paper]](https://aclanthology.org/2022.acl-long.211/)
+- EmpHi: Generating Empathetic Responses with Human-like Intents, in NAACL 2022, [[paper]](https://arxiv.org/abs/2204.12191v1)
 - Knowledge Bridging for Empathetic Dialogue Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2009.09708)
 - CEM: Commonsense-aware Empathetic Response Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2109.05739)
 - CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, in ACL 2021(Findings), [[paper]](https://arxiv.org/abs/2105.08316)
-- Towards an Online Empathetic Chatbot with Emotion Causes, in SIGIR 2021, [[paper]](https://arxiv.org/abs/2105.11903)
+- [Empathic Rewriting]Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach, in WWW 2021, [[paper]](https://arxiv.org/abs/2101.07714)
 - Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes, in EMNLP 2021, [[paper]](https://aclanthology.org/2021.emnlp-main.170/)
 - Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations, in EMNLP(findings) 2021, [[paper]](https://aclanthology.org/2021.findings-emnlp.70/)
+- Towards an Online Empathetic Chatbot with Emotion Causes, in SIGIR 2021, [[paper]](https://arxiv.org/abs/2105.11903)
+- A Taxonomy of Empathetic Response Intents in Human Social Conversations, in COLING 2020, [[paper]](https://arxiv.org/abs/2012.04080)
+- A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, in EMNLP 2020, [[paper]](https://arxiv.org/abs/2009.08441)
 - EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, in COLING 2020, [[paper]](https://aclanthology.org/2020.coling-main.394/)
 - MIME: MIMicking Emotions for Empathetic Response Generation, in EMNLP 2020, [[paper]](https://aclanthology.org/2020.emnlp-main.721/)
 - MoEL: Mixture of Empathetic Listeners, in EMNLP-IJNLP 2019, [[paper]](https://aclanthology.org/D19-1012/)
@@ -60,9 +64,6 @@ paper list for Emotional dialogue system
 
 ## Others
 
-- [Empathic Rewriting]Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach, in WWW 2021, [[paper]](https://arxiv.org/abs/2101.07714)
-- A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, in EMNLP 2020, [[paper]](https://arxiv.org/abs/2009.08441)
-- A Taxonomy of Empathetic Response Intents in Human Social Conversations, in COLING 2020, [[paper]](https://arxiv.org/abs/2012.04080)
 - A Knowledge-Grounded Neural Conversation Model, in AAAI 2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057)
 
 
