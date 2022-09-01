@@ -15,7 +15,7 @@ paper list for Emotional dialogue system
 
 ## Empathetic Dialogue
 
-- EmoDM: Empathetic Response Generation with Emotion-aware Dialogue Management, arxiv, [[paper]]https://arxiv.org/abs/2205.03676v2
+- EmoDM: Empathetic Response Generation with Emotion-aware Dialogue Management, arxiv, [[paper]](https://arxiv.org/abs/2205.03676v2)
 - A Taxonomy of Empathetic Questions in Social Dialogs, in ACL 2022, [[paper]](https://aclanthology.org/2022.acl-long.211/)
 - Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy, in NAACL 2022, [[paper]](https://arxiv.org/abs/2205.07233)
 - Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances, in NAACL 2022, [[paper]](https://arxiv.org/abs/2205.03112)
