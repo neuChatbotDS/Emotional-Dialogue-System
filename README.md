@@ -68,6 +68,7 @@ paper list for Emotional dialogue system
 ## Others
 
 - A Knowledge-Grounded Neural Conversation Model, in AAAI 2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057)
+- DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations, in ACL 2021, [[paper]](https://aclanthology.org/2021.acl-long.547/)
 
 
 
