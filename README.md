@@ -45,6 +45,7 @@ paper list for Emotional dialogue system
 
 ## Emotional Support
 
+- Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, in EMNLP 2022, [[paper]](https://arxiv.org/abs/2210.04242)
 - MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, in ACL 2022, [[paper]](https://arxiv.org/abs/2203.13560)
 - Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation,in IJCAI 2022, [[paper]](https://www.ijcai.org/proceedings/2022/600)
 - Towards Motivational and Empathetic Response Generation in Online Mental Health Support, in SIGIR 2022, [[paper]](https://dl.acm.org/doi/10.1145/3477495.3531912)
