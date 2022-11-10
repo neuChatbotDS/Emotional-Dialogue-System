@@ -15,7 +15,6 @@ paper list for Emotional dialogue system
 
 ## Empathetic Dialogue
 
-- Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, in EMNLP 2022, [[paper]](https://arxiv.org/abs/2210.04242)
 - Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection, findings of EMNLP 2022, [[paper]](https://arxiv.org/abs/2210.11715)
 - EmoDM: Empathetic Response Generation with Emotion-aware Dialogue Management, arxiv, [[paper]](https://arxiv.org/abs/2205.03676v2)
 - Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy, in NAACL 2022, [[paper]](https://arxiv.org/abs/2205.07233)
