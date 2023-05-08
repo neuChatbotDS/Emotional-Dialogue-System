@@ -15,6 +15,7 @@ paper list for Emotional dialogue system
 
 ## Empathetic Dialogue
 
+- Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness, in findings of ACL 2023, [[paper]](https://arxiv.org/abs/2210.03884)
 - CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior, in DASFAA 2023, [[paper]](https://arxiv.org/abs/2302.01935)
 - Empathetic Response Generation via Emotion Cause Transition Graph, in ICASSP 2023, [[paper]](https://arxiv.org/abs/2302.11787)
 - Using Extracted Emotion Cause to Improve Content-Relevance for Empathetic Conversation Generation, in CCL 2022, [[paper]](https://aclanthology.org/2022.ccl-1.72/)
@@ -29,7 +30,6 @@ paper list for Emotional dialogue system
 - InferEM: Inferring the Speaker's Intention for Empathetic Dialogue Generation , in arxiv, [[paper]](https://arxiv.org/abs/2212.06373)
 - AFEC: A Knowledge Graph Capturing Social Intelligence in Casual Conversations, in arxiv, [[paper]](https://arxiv.org/abs/2205.10850)
 - CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation, in arxiv, [[paper]](https://arxiv.org/abs/2208.08845)
-- Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness, in arxiv, [[paper]](https://arxiv.org/abs/2210.03884)
 - Knowledge Bridging for Empathetic Dialogue Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2009.09708)
 - CEM: Commonsense-aware Empathetic Response Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2109.05739)
 - Generating Empathetic Responses by Injecting Anticipated Emotion, in ICASSP  2021, [[paper]](https://ieeexplore.ieee.org/document/9413596)
@@ -87,7 +87,6 @@ paper list for Emotional dialogue system
 
 ## Others
 
-- 
 - DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations, in ACL 2021, [[paper]](https://aclanthology.org/2021.acl-long.547/)
 - A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, in EMNLP 2020, [[paper]](https://arxiv.org/abs/2009.08441)
 - A Knowledge-Grounded Neural Conversation Model, in AAAI 2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057)
