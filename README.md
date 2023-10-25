@@ -62,6 +62,15 @@ paper list for Emotional dialogue system
 
 ## Emotional Support
 
+- Building Emotional Support Chatbots in the Era of LLMs, in arxiv, [[paper]](https://arxiv.org/abs/2308.11584)
+- TransESC：Smoothing Emotional Support Conversation via Turn-Level State Transition, in findings of ACL 2023, [[paper]](https://arxiv.org/abs/2305.03296)
+- Facilitating Multi-turn Emotional Support Conversation with Positive Emotion Elicitation：A Reinforcement Learning Approach, in ACL 2023, [[paper]](https://arxiv.org/abs/2307.07994)
+- PAL：Persona-Augmented Emotional Support Conversation Generation, in findings of ACL 2023, [[paper]](https://arxiv.org/abs/2212.09235)
+- Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation, in conjunction with AAAI 2023, [[paper]](https://arxiv.org/abs/2302.01441)
+- PoKE：Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable, in arxiv, [[paper]](https://arxiv.org/abs/2210.12640)
+- Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations, in ACL 2023, [[paper]](https://arxiv.org/abs/2305.10172)
+- FADO：Feedback-Aware Double COntrolling Network for Emotional Support Conversation, in KBS, [[paper]](https://arxiv.org/abs/2211.00250)
+- AugESC：Large-scale Data Augmentation for Emotional Support Conversation with Pre-trained Language Models, in findings of ACL 2023, [[paper]](https://arxiv.org/abs/2202.13047)
 - Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, in EMNLP 2022, [[paper]](https://arxiv.org/abs/2210.04242)
 - MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, in ACL 2022, [[paper]](https://arxiv.org/abs/2203.13560)
 - Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation,in IJCAI 2022, [[paper]](https://www.ijcai.org/proceedings/2022/600)
@@ -71,6 +80,7 @@ paper list for Emotional dialogue system
 
 ## Commonsense Knowledge Graph
 
+- CICERO V2: Multiview Contextual Commonsense Inference: A New Dataset and Task, in arxiv, [[paper]](https://arxiv.org/abs/2210.02890)
 - CICERO: A Dataset for Contextualized Commonsense Inference in Dialogue, in ACL 2022, [[paper]](https://aclanthology.org/2022.acl-long.344/)
 - COMET: Commonsense Transformers for Automatic Knowledge Graph Construction, in ACL 2019, [[paper]](https://arxiv.org/abs/1906.05317)
 - ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning, in AAAI 2019, [[paper]](https://arxiv.org/abs/1811.00146)
